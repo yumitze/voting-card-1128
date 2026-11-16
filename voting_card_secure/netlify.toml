@@ -1,3 +1,4 @@
 [[edge_functions]]
 function = "election-cutoff"
 path = "/*"
+# Testing cutoff-test branch deployment
